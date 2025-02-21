@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Anna 👋</a> 
 <h3 align="center">Computer science bachelor, Exploring the world of IT 🇷🇺</h3>
 
-- 🔭 I’m currently working on my pet-projects here
-- 🌱 I’m currently learning Python, Django Framework, Rest Api, MySql, ML
+I’m currently
+- 🔭  working on my pet-projects here
+- 🌱  learning Python, Django Framework, Rest API, Fast API, MySql, ML
 
 ## My knowledges:
 Languages: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
